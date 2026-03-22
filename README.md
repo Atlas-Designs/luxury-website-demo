@@ -7,40 +7,38 @@ https://atlas-designs.github.io/luxury-website-demo/
 * **Seo ready:** - Structured data and meta-tags built into the architecture.
 
 ⭐ Hand-crafted for high-conversion
-most "luxury" websites are built on bloated builders that load like it's 2010. this project is a bespoke, hand-coded solution designed for brands that can't afford to keep their customers waiting. no templates, no bloat, just pure performance.
+Most "luxury" websites are built on bloated builders that load like it's 2010. NEWSFLASH, it is 2026. This project is a modern, bespoke, hand-coded solution designed for brands that can't afford to keep their customers waiting. no templates, no bloat, just pure performance.
 
 🚀 elite performance metrics
-why settle for "good enough" when you can have perfection? this build is optimized to the bone:
-According to google tests:
+Why settle for "good enough" when you can have perfection? This build is optimized to the bone,
+According to google tests, our websites score:
 
-* performance: 95+ (lightning fast interaction)
+* Performance: 95+ (lightning fast interaction)
 
-* accessibility: 98+ (inclusive luxury)
+* Accessibility: 98+ (inclusive luxury)
 
-* best practices: 100 (secure & modern)
+* Best practices: 100 (secure & modern)
 
-* seo: 100 (built to be found)
+* SEO: 100 (built to be found)
 
 🛠 the technical stack
-i don't use "drag-and-drop" builders. i build with precision:
+At Atlas Designs, We don't use "drag-and-drop" builders. I build with precision:
 
-* engine: vanilla html5, modern css3, and optimized javascript.
+* Engine: vanilla HTML5, modern CSS3, and optimized javascript.
 
-* deployment: automated ci/cd via netlify edge.
-
-* security: custom headers & sanitization (zero-vulnerability architecture).
+* Security: custom headers & sanitization & a private database (zero-vulnerability architecture).
 
 ✨ key features
-* zero-shift layout: optimized for cls (cumulative layout shift) to ensure a smooth, premium feel.
+* Zero-shift layout: Optimized for cls (cumulative layout shift) to ensure a smooth, premium feel.
 
-* next-gen imagery: serving .webp and .avif formats for retina-crisp visuals at a fraction of the file size.
+* Next-gen imagery: Serving .webp and .avif formats for retina-crisp visuals at a fraction of the file size.
 
-* mobile-first precision: designed to look flawless on the latest iphone and android flagships.
+* Mobile-first precision: Designed to look flawless on the latest iphone and android flagships.
 
-* bespoke interaction: custom-coded micro-interactions that feel expensive.
+* Bespoke interaction: Custom-coded micro-interactions that feel expensive.
 
-💼 hire the specialist
-if your brand deserves better than a $20 wordpress theme, let’s talk. i build high-performance digital assets that turn visitors into clients.
+💼 Hire the specialist
+If your brand deserves better than a $20 wordpress theme, let’s talk. i build high-performance digital assets that turn visitors into customers.
 
 Atlas Designs - hand-coded. high-performance. high-end.
 
