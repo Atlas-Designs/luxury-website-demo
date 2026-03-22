@@ -43,5 +43,5 @@ If your brand deserves better than a $20 wordpress theme, let’s talk. i build 
 Atlas Designs - hand-coded. high-performance. high-end.
 
 ---
-<p> **Interested in a custom build for your business?** contact Atlas Designs for a quote.
+<p> **Interested in a custom build for your business?** Contact Atlas Designs for a quote.
 Message @ -> atlas.designs0@gmail.com or make an enquiry on our website -> https://atlasdesigns.netlify.app </p> 
